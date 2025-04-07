@@ -6,9 +6,9 @@ module.exports = {
     {
       name: '@electron-forge/publisher-github',
       config: {
-        repositroy: {
+        repository: {
           owner: 'zhegebi',
-          name: 'electron-forge-test'
+          name: 'my-electron-app'
         },
         prerelease: false,
         draft: true
